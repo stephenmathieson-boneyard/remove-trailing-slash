@@ -1,0 +1,14 @@
+{
+  "name": "remove-trailing-slash",
+  "repo": "stephenmathieson/remove-trailing-slash",
+  "description": "removes trailing slashes",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
