@@ -1,4 +1,3 @@
-
 # remove-trailing-slash
 
 removes trailing slashes
@@ -22,7 +21,7 @@ Removes trailing slashes from the given `str`
 ## Example
 
 ```js
-var slashes = require('slashes')
+var slashes = require('remove-trailing-slash')
 
 slashes('http://google.com/').should.be.equal('http://google.com');
 ```
